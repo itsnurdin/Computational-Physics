@@ -1,0 +1,21 @@
+Berdasarkan hasil program MATLAB didapatkan persamaan regresi 
+Regresi linier :y = -0.06670+0.56557x
+Regresi fungsi eksponensial: y = (0.72600).exp(-0.24461x)
+Regresi fungsi pangkat : y = (0.99919). x^(-0.00035)
+Regresi fungsi Saturasi : y = (0.12524)x/((0.12524)(--13.12559)+x)
+----------------------------------------------------------
+Berdasarkan hasil program MATLAB didapatkan nilai koefisien determinasi
+Regresi linier,Koefisien determinasi regresi (R kuadrat) = 0.87599
+Regresi fungsi eksponensial,Koefisien determinasi regresi (R kuadrat) = 0.96746
+Regresi fungsi pangkat,Koefisien determinasi regresi (R kuadrat) = 1.00000
+Regresi fungsi Saturasi,Koefisien determinasi regresi (R kuadrat) = 0.87665
+-----------------------------------------------------------------
+Untuk menentukan nilai x untuk f(x)=0.23 dengan metode regresi linier yaitu:
+f(x)=0.5656-0.0667x
+x=5.0315
+Dengan metode regresi non-linier saturasi yaitu:
+f(x)= (0.99919).x^(-0.00035)
+x=4.3475
+Setelah didapatkan nilai x dari kedua metode, dapat dilihat bahwa nilai x yang didapatkan dengan metode regresi linier lebih besar dibandingkan dengan metode regresi non-linier power equation. Dapat dilihat juga pada grafik yang dihasilkan dari kedua metode ini, metode regresi non-linier power equation sudah tepat dan garis grafik yang sesuai dengan nilai-nilai dari data yang diberikan.
+
+

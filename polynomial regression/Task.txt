@@ -1,0 +1,13 @@
+Dynamic viscosity of water µ(10.3 N.s/m^2) is related to temperature T(°C) in the following manner:
+
+T	µ
+0	1.787
+5	1.519
+10	1.307
+20	1.002
+30	0.7975
+40	0.6529
+
+a)	Plot this data.
+b)	Use linear interpolation to predict µ at T = 7.5 °C.
+c)	Use polynomial regression to fit a parabola to the data in order to make the same  prediction.

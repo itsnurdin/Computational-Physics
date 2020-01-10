@@ -1,0 +1,29 @@
+-----------------
+berdasarkan hasil program MATLAB didapatkan persamaan regresi 
+Regresi linier :y = 0.10643x+0.50127
+Regresi fungsi eksponensial: y = (0.51406)exp(0.14704)
+Regresi fungsi pangkat : y = (0.54159) x^(-0.26633)
+Regresi fungsi Saturasi : y = (1.36711)1/((1.36711)(1.22902)+x)
+--------------------------
+berdasarkan hasil program MATLAB didapatkan nilai koefisien determinasi
+Regresi linier,Koefisien determinasi regresi (R kuadrat) = 0.78701
+Regresi fungsi eksponensial,Koefisien determinasi regresi (R kuadrat) = 0.73285
+Regresi fungsi pangkat,Koefisien determinasi regresi (R kuadrat) = 0.90363
+Regresi fungsi Saturasi,Koefisien determinasi regresi (R kuadrat) = 0.97519
+------------------------------------------------------------
+Untuk menentukan nilai x untuk f(x)=0.85 dengan metode regresi linier yaitu:
+f(x)=0.5013+0.1064x
+0.85=0.5013+0.1064x
+0.3487=0.1064x
+x=3.277
+Dengan metode regresi non-linier saturasi yaitu:
+f(x)=1.3761/(1.6912269+x)
+0.85=1.3761/(1.6912269+x)
+x=2.7324
+Setelah didapatkan nilai x dari kedua metode, dapat dilihat bahwa nilai x yang didapatkan dengan metode regresi linier lebih besar dibandingkan dengan metode regresi non-linier saturasi. Dapat dilihat juga pada grafik yang dihasilkan dari kedua metode ini, metode regresi non-linier saturasi lebih tepat dan garis grafik yang lebih mendekati nilai-nilai dari data yang diberikan.
+------------------------------------------------------------------------------------
+Dari grafik diatas terlihat perbedaan antara grafik fungsi yang diberi, grafik regresi linier dan grafik regresi non-linier saturasi. Terlihat bahwa metode regresi non-linier saturasi yang mendekati dengan grafik dari fungsi yang diberikan
+x= ±2.38
+Dapat di simpulkan bahwa nilai yang mendekati pada nilai regresi linier yaitu pada nilai regresi non linier pada eksponensial yaitu sebesar 3.52 dan 3.515. dan pada fungsi yang diberikan (d) nilai 2.38 yang didapat mendekati nilai yang dipat pada regresi non linier sebesar 2.156.
+
+

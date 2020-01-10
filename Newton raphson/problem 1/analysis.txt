@@ -1,0 +1,2 @@
+diatas menggunakan metode Newton Rapson dimana menggunakan satu tebakan saja yaitu ho yang nilainya 3, kemudian memasukkan fungsi awal dan fungsi turunan. Nilai salah satu akarnya adalah 2,9449 pada iterasi ke 3. Fungsi tersebut sebenarnya memiliki 3 akar, karena fungsinya pangkat tiga. Namun disini hanya menampilkan satu nilai akar yang paling dekat dengan nilai tebakan.
+Jadi tinggi tangki yang berbentuk silinder adalah 2,9449 meter.
